@@ -1,0 +1,59 @@
+body {
+margin-top: 50px;
+margin-bottom: 50px;
+font-family: 'Ubuntu', sans-serif;
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+b {
+	background: rgb(131,58,180);
+	background: linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+a:active {
+  color: black;
+}
+
+img {
+	border-radius: 25px;
+}
+li {
+	font-size: .9em;
+	background-color: white;
+	display: inline;
+	margin: 0;
+	text-decoration-line: none;
+
+}
+a {
+	text-decoration-line: none;
+}
+div.body {
+		background: rgb(238,174,202);
+		background: linear-gradient(0deg, rgba(238,174,202,1) 0%, rgba(255,255,255,1) 57%);
+		padding-top: 15px;
+		background-color: white;
+		margin-left: 12%;
+		margin-right: 12%;
+		margin-top: 0;
+		padding-bottom: 25px;
+
+}
+
+#natural div.body div.text img {
+	min-height: 150px;
+	min-width: 300px;
+}
+#natural div.body {
+	
+}
